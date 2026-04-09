@@ -24,6 +24,42 @@ _ _ _
 
 # How it looks
 
+```
++=============================================+
+|           SMART PARKING SYSTEM              |
++=============================================+
+
+      +------+------+------+------+------+
+      | P 1  | P 2  | P 3  | P 4  | P 5  | 
+      |   O  |   O  |   O  |   O  |   O  | 
+      +------+------+------+------+------+
+      | P 6  | P 7  | P 8  | P 9  | P10  | 
+      |   O  |   O  |   O  |   O  |   O  | 
+      +------+------+------+------+------+
+      | P11  | P12  | P13  | P14  | P15  | 
+      |   O  |   O  |   O  |   O  |   O  | 
+      +------+------+------+------+------+
+      | P16  | P17  | P18  | P19  | P20  | 
+      |   O  |   O  |   O  |   O  |   O  | 
+      +------+------+------+------+------+
+      | P21  | P22  | P23  | P24  | P25  | 
+      |   O  |   O  |   O  |   O  |   O  | 
+      +------+------+------+------+------+
+
+Legend: O = Available | X = Occupied
+===============================================
+
+--- Smart Parking System ---
+1 Enter Parking
+2 Exit Parking
+3 View Parked Users
+4 Search User Parking Info
+5 View Slot Summary
+99 Exit Program
+
+Enter choice: 
+```
+
 _ _ _
 
 # Future Development Ideas 

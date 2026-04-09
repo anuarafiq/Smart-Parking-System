@@ -2,8 +2,9 @@
 #include <sstream>
 #include <iomanip>  
 #include <unordered_map> 
-#include <string>  
+#include <string>
 #include <ctime>
+#include <cstring>
 using namespace std;
 
 const int ROWS = 5, COLS = 5;
